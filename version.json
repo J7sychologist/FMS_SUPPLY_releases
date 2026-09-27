@@ -1,0 +1,10 @@
+{
+  "version": "0.2.4",
+  "release_date": "2026-09-27",
+  "download_url": "https://github.com/J7sychologist/FMS_SUPPLY_releases/releases/download/v0.2.4/FMS_SUPPLY_v0.2.4.exe",
+  "mirrors": [],
+  "sha256": "f5b9524d22d5cd1539f64ca2c198b020d0eeff6bcfebdeebfd262ff144d37b51",
+  "changelog": "Первый публичный релиз: Sin_cos, Oscillator, Incline, Curvature",
+  "mandatory": false,
+  "min_version": "0.2.0"
+}
