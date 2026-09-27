@@ -3,7 +3,7 @@
   "release_date": "2026-09-28",
   "download_url": "https://github.com/J7sychologist/FMS_SUPPLY_releases/releases/download/v0.2.5/FMS_SUPPLY.exe",
   "mirrors": [],
-  "sha256": "91684e5cb43f43b903ff734317e55a5fcac031ad13c35d61afd1396286c5d0a7",
+  "sha256": "367075bbfab33f2c1d014120d9c3a56e1a65a46b3f63c77a833c82ac46575d4c",
   "changelog": "Добавлена система автообновлений через GitHub Releases",
   "mandatory": false,
   "min_version": "0.2.0"
