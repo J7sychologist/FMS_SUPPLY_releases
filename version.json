@@ -1,10 +1,10 @@
 {
-  "version": "0.2.8",
+  "version": "0.2.9",
   "release_date": "2026-09-29",
-  "download_url": "https://github.com/J7sychologist/FMS_SUPPLY_releases/releases/download/v0.2.8/FMS_SUPPLY_v0.2.8.zip",
+  "download_url": "https://github.com/J7sychologist/FMS_SUPPLY_releases/releases/download/v0.2.9/FMS_SUPPLY_v0.2.9.zip",
   "mirrors": [],
-  "sha256": "A221F61125E9CD80C039670184F51B0CC5F7390F0FEEC050C5EC1D5B97B09039",
-  "changelog": "Standalone-сборка. Установщик Inno Setup. Новый формат обновлений через ZIP.",
+  "sha256": "9DF6D6F0FFE998AEB38DDC06245330AEDCDD5F422EFD77F57106E9BACE3C2544",
+  "changelog": "Тестовая версия для проверки системы автообновления.",
   "mandatory": false,
-  "min_version": "0.2.7"
+  "min_version": "0.2.8"
 }
