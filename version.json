@@ -4,7 +4,7 @@
   "download_url": "https://github.com/J7sychologist/FMS_SUPPLY_releases/releases/download/v0.2.6/FMS_SUPPLY.exe",
   "mirrors": [],
   "sha256": "00f82d13679efbbb3de5a94580863eea12cd0bf3ca03a4b4a715142b74c948da",
-  "changelog": "Стартовая страница с карточками модулей. Кнопка «Главная». Упрощено меню Файл.",
+  "changelog": "Стартовая страница с карточками модулей. Кнопка «Главная». Упрощено меню Файл. Перезалив",
   "mandatory": false,
   "min_version": "0.2.5"
 }
