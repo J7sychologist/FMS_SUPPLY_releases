@@ -3,7 +3,7 @@
   "release_date": "2026-09-28",
   "download_url": "https://github.com/J7sychologist/FMS_SUPPLY_releases/releases/download/v0.2.6/FMS_SUPPLY.exe",
   "mirrors": [],
-  "sha256": "e65f87dcd48a9a6daad896eebec7c477022d48f1356bb2fe41057363e2f2ce4f",
+  "sha256": "00f82d13679efbbb3de5a94580863eea12cd0bf3ca03a4b4a715142b74c948da",
   "changelog": "Стартовая страница с карточками модулей. Кнопка «Главная». Упрощено меню Файл.",
   "mandatory": false,
   "min_version": "0.2.5"
